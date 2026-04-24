@@ -1,7 +1,7 @@
 ---
 title: 'New post'
 description: 'Экзамен'
-pubDate: 'April 24 2026'
+pubDate: 'April 20 2022'
 heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
 
